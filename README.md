@@ -9,3 +9,8 @@ Concept: Rather than displaying the time like a traditional clock, this clock us
 Inspiration: 
 <https://www.amazon.com/LED-Word-Clock-Displays-Powered/dp/B00JPNWR3G>
 <https://www.instructables.com/id/Wordclock/>
+
+/datasheets: Contains all relevant datasheets
+/docs: Contains all relevant documents, schematics, layouts, testing plans, etc.
+/rtc_ds3231: Contains all code
+/schematics: Contains all schematics and layouts
